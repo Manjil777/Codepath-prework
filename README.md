@@ -1,4 +1,4 @@
-# Prework - *Name of App Here*
+# Prework - *Project1*
 
 Submitted by: **Manjil Shrestha**
 
@@ -21,7 +21,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## App Brainstorming (Step 4)
 - Maps
-    -used daily to navigate
+    - used daily to navigate
     - i can share my location to my friends
 - Music
     - can lookup for each and every song
