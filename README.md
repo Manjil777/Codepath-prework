@@ -19,10 +19,9 @@ The following **required** functionality is completed:
       <p>Simulator - iPhone 16 Pro Max - 19 December 2024 - Watch Video</p>
     </a>
     <a href="https://www.loom.com/share/9e2255342dd84561a46610d0f5ce9c11">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/9e2255342dd84561a46610d0f5ce9c11-6732df3b97b09eb1-full-play.gif">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/9e2255342dd84561a46610d0f5ce9c11-ebe70b5c631ecb10-full-play.gif">
     </a>
   </div>
-
 
 ## App Brainstorming (Step 4)
 - Maps
