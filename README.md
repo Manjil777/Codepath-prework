@@ -19,14 +19,9 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
-<div>
-    <a href="https://www.loom.com/share/9e2255342dd84561a46610d0f5ce9c11">
-      
-    </a>
-    <a href="https://www.loom.com/share/9e2255342dd84561a46610d0f5ce9c11">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/9e2255342dd84561a46610d0f5ce9c11-6732df3b97b09eb1-full-play.gif">
-    </a>
-  </div>
+Simulator - iPhone 16 Pro Max - 19 December 2024 - Watch Video
+
+
 
 ## App Brainstorming (Step 4)
 - Maps
