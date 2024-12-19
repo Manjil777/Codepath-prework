@@ -35,7 +35,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 - Netflix
     - can watch different movies and tv shows
  
-- [ ] I would like to create an app which changes the photo content of lectures into a word text and figures document.
+- [ ] I would like to create an workout app which create a personalized workout plan, video workout instructions, match nearby people for gym sessions or for a run, sync apple watch for heart rate.
       
 
 
